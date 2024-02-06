@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scheduler V2</string>
+    <string name="assignment_name">Assignment Name</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="professor">Professor</string>
+    <string name="location_and_room_number">Location and Room Number</string>
+    <string name="save_exam">Save Exam</string>
+    <string name="back">Back</string>
+    <string name="add_assignment">Add Assignment</string>
+    <string name="save_assignment">Save Assignment</string>
+    <string name="todo">TODO</string>
+</resources>
